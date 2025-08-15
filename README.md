@@ -12,3 +12,7 @@ This repo contains an IoT app implementation on the ESP32 with ESP-IDF written i
 ##### For FreeRTOS repo, please look here
 
 [ahmadkhubaib's FreeRTOS repo](https://github.com/ahmadkhubaib/freeRTOS)
+
+##### For microPython repo, please look here
+
+[ahmadkhubaib's microPython repo](https://github.com/ahmadkhubaib/micropy)
